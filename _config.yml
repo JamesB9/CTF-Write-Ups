@@ -1,3 +1,7 @@
+# SITE WIDE CONFIGURATION
+
 theme: jekyll-theme-hacker
-title: Welcome to James009's CTF Write Ups Portal!
-description: This is a place where I upload my write-ups for the capture the flag challenges I complete.
+title: James009: CTF Write-Ups
+description: A place where all my CTF Write-Ups can be found!
+
+
